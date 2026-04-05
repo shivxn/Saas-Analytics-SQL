@@ -154,5 +154,5 @@ FROM subscriptions
 WHERE start_date IS NOT NULL
 GROUP BY DATE_FORMAT(start_date, '%Y-%m')
 ORDER BY month DESC
-LIMIT 2;
+LIMIT 1;
 ```
