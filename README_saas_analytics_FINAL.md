@@ -146,15 +146,5 @@ This project proves your ability in:
 
 ## 🟢 **Status**
 **Completed ✔**  
-All 10 queries fully formatted and documented.  
-Perfect for GitHub portfolios and SQL interviews.
 
 ---
-
-## 📎 Files Included
-- `saas_analytics_queries.sql`  
-- `README_saas_analytics.md`  
-
----
-
-💬 *If you want, I can also help you create a full GitHub folder structure or add badges/photos like your other repository.*  
